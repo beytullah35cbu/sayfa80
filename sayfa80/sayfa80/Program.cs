@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program //sayfa9* bırıncı odev
+class Program //sayfa80 bırıncı odev
 {
     static void Main()
     {
